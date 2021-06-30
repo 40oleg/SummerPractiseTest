@@ -10,6 +10,7 @@ namespace SummerPractise
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("123");
         }
     }
 }
